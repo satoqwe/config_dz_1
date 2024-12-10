@@ -1,0 +1,4 @@
+filesystem_path: ./src/test_filesystem.zip
+log_path: ./test_log.csv
+start_script: ./src/startup_script.txt
+username: test_user
